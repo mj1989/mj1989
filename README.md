@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React :-)
 - my websites projects:
 - https://stercon.pl
+- https://kfd.pwr.edu.pl
+- https://cyberur.com
 
 
 <!---
