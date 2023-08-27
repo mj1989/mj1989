@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mj1989
-- 👀 I’m interested in Web Development, Front-End.
+- 👀 I’m interested in Web Development both frontend and backend.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React :-)
 - my websites projects:
 - https://stercon.pl
